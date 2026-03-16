@@ -1,0 +1,36 @@
+# Secret files — NEVER push these
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Audio files 
+backend/audio/
+*.wav
+*.webm
+*.mp3
+*.mp4
+
+# Node modules
+frontend/node_modules/
+frontend/build/
+
+# Database
+*.db
+*.sqlite
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Docker volumes
+pgdata/
+```
