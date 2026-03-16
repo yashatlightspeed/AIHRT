@@ -61,7 +61,7 @@ We designed a custom model called the
 
 You need Docker Desktop installed. That's literally it.
 ```bash
-git clone https://github.com/YOURUSERNAME/AIHRT.git
+git clone https://github.com/yashatlightspeed/AIHRT.git
 cd AIHRT
 cp .env.example .env
 ```
