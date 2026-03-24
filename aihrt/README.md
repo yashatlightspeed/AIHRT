@@ -1,5 +1,5 @@
 # AIHRT 
-### Artificially Intelligent Head Recruiter Tech
+### Artificially Intelligent Head Recruiter Tech.
 
 > Built this for my final year project at Chandigarh University (AIT).
 
